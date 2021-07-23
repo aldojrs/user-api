@@ -4,7 +4,7 @@ Spring boot + Rest Controller + JPA + Hibernate + H2 DB in Memory. Project to ma
 
 # Installation
 
-Build with Maven and Run JwtAuthServiceApp class.
+Build with Gradle and Run JwtAuthServiceApp class.
 
 # Running the tests
 
@@ -14,7 +14,7 @@ Download [POSTMAN Project](https://github.com/aldojrs/user-api/blob/master/User-
 
 * [Spring Initializr](https://start.spring.io/)
 * [IntelliJ](https://www.jetbrains.com/es-es/idea/)
-* [Maven](https://maven.apache.org/)
+* [Gradle](https://gradle.org/)
 * [Spring Boot](https://spring.io/projects/spring-boot)
 * [JPA](https://spring.io/projects/spring-data-jpa)
 * [Hibernate](http://hibernate.org/)
